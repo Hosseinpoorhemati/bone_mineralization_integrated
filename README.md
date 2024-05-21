@@ -9,4 +9,8 @@ A live demo of the model is available at: [link will be added soon]
 
 If you have any questions please contact: hossein.poorhemati@mail.mcgill.ca
 
+## App screenshot:
+![App screenshot](app_screenshot.jpg)
+
+
 
